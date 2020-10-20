@@ -3,3 +3,12 @@ Hej, dette er et dokument.
 void Wifi(){
 	DoWifi(); //Does wifi
 }
+
+
+
+
+
+
+float Afstand(){
+	Mål_afstand(5);
+}

@@ -1,4 +1,11 @@
 //Hej, dette er ikke et dokument.
+#include<stdio.h>
+
+void main(){
+	Wifi();
+	printf("Afstand er :%f\n", Afstand());
+	Timer();
+}
 
 void Wifi(){
 	DoWifi(); //Does wifi
@@ -6,4 +13,8 @@ void Wifi(){
 
 float Afstand(){
 	Mål_afstand(5);
+}
+
+void Timer(int i){
+	delay(i);
 }

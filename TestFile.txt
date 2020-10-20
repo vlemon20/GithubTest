@@ -1,5 +1,12 @@
 Hej, dette er et dokument.
 
+
+
+
+
+
+
+
 float Afstand(){
 	Mål_afstand(5);
 }

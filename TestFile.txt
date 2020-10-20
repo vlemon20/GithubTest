@@ -1,1 +1,5 @@
 Hej, dette er et dokument.
+
+void Wifi(){
+	DoWifi(); //Does wifi
+}

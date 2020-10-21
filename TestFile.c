@@ -8,7 +8,7 @@ void main(){
 }
 
 void Wifi(){
-	DoWifi(); //Does wifi
+	DoWifi(); //Does wifi not
 }
 
 float Afstand(){

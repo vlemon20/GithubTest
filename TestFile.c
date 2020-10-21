@@ -1,4 +1,4 @@
-//Hej, dette er ikke et dokument.
+//Hej, dette er ikke et dokument. ?
 #include<stdio.h>
 
 void main(){

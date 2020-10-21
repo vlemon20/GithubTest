@@ -18,3 +18,6 @@ float Afstand(){
 void Timer(int i){
 	delay(i);
 }
+
+
+int nums(){}
